@@ -1,0 +1,7 @@
+{
+  "name": "Student Survival Grid",
+  "description": "A high-performance, cyberpunk-themed financial tracker for students to monitor income, expenses, and survival budgets with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
